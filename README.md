@@ -2,7 +2,6 @@
 
 <div>
   <a href="https://github.com/Kryotsz?tab=repositories">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kryotsz&count_private=true&show_icons=true&theme=github_dark" />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryotsz&layout=compact&theme=github_dark" />
   </a>
 </div>
