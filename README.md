@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, meu nome é Igor Gassen, prazer em conhecer você
+  Olá, meu nome é Igor Gassen, prazer em conhecer você!
 </h1>
 
 <div align="center">
@@ -8,13 +8,12 @@
   </a>
 </div>
 
-
 <div style="display: inline_block" align="center"><br>
   <img alt="Csharp-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
